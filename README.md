@@ -1,18 +1,103 @@
-# 💫 About Me:
-👋 About Me<br><br>I’m a Computer Science undergraduate with a strong foundation in data structures, problem-solving, and software development, actively building real-world projects and maintaining consistent coding discipline. I enjoy turning ideas into working systems and learning technologies by applying them, not just reading about them.<br><br>🔭 I’m currently working on<br><br>DSA & algorithmic problem solving (LeetCode)<br><br>Backend & system-oriented projects<br><br>AI/ML & data-driven applications (beginner → intermediate)<br><br>I’m looking to collaborate on<br><br>Open-source projects (backend, data, AI, tooling) and Internships<br><br>Student-led tech projects with real impact<br><br>Hackathons and research-oriented builds<br><br> I’m looking for help with<br><br>Writing production-ready, scalable code<br><br>System design & real-world architecture patterns<br><br>Improving project documentation and testing<br><br>🌱 I’m currently learning<br><br>Advanced DSA & problem-solving patterns<br><br>Machine Learning fundamentals & applied AI<br><br>Cloud & backend concepts (deployment, APIs, databases)<br><br>Ask me about<br><br>DSA strategies & coding consistency<br><br>Project building from scratch<br><br>CS fundamentals & learning roadmaps<br><br>⚡ Fun fact<br><br>I believe daily small commits beat motivation — consistency compounds faster than talent.
+# 👋 Janardan Kartikeya Agnihotram
 
+### Software Engineer | Backend Systems | AI/ML Enthusiast
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janardan-kartikeya-agnihotram-135252291/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:janardanagnihotram@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=0kartik&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=0kartik&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0kartik&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 🚀 About Me
+Computer Science undergraduate focused on building **scalable, production-grade systems** and mastering **data structures & algorithms** through consistent practice.
 
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=0kartik&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
+I approach learning by **building real-world applications**, not just consuming theory. My work reflects a balance of **problem-solving depth, system thinking, and execution discipline**.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🔧 Core Focus Areas
+- **Data Structures & Algorithms**  
+  Strong problem-solving foundation with consistent LeetCode practice and pattern mastery.
+
+- **Backend Engineering & Systems**  
+  Designing APIs, handling data flow, and building reliable backend architectures.
+
+- **AI/ML & Data-Driven Applications**  
+  Applying machine learning concepts to practical use-cases (beginner → intermediate).
+
+- **Cloud & Deployment**  
+  Working with modern deployment workflows, databases, and scalable infrastructure.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:**  
+C, C++, Java, Python, JavaScript, TypeScript, R  
+
+**Frontend:**  
+HTML5, CSS3, React, Next.js, TailwindCSS  
+
+**Backend & APIs:**  
+Node.js, Express.js, FastAPI  
+
+**Databases:**  
+MySQL, Oracle  
+
+**Cloud & DevOps:**  
+AWS, Firebase, Vercel, Netlify, Render  
+
+**AI/ML:**  
+TensorFlow, PyTorch, Scikit-learn, Keras, Pandas, NumPy  
+
+**Tools:**  
+Git, GitHub, NPM, Windows Terminal  
+
+---
+
+## 📈 What I’m Working On
+- Advanced DSA & problem-solving patterns  
+- Backend-heavy real-world projects  
+- Applied AI/ML systems  
+- Writing cleaner, scalable, and production-ready code  
+
+---
+
+## 🤝 Open to Collaborate On
+- Open-source (Backend / AI / Dev Tools)  
+- Hackathons & research-driven builds  
+- High-impact student-led tech projects  
+- Internship opportunities  
+
+---
+
+## 🎯 What I’m Improving
+- System Design & Architecture  
+- Writing maintainable, testable code  
+- Documentation & engineering clarity  
+
+---
+
+## 💡 Philosophy
+> Consistency compounds faster than talent.  
+> Small daily improvements → long-term dominance.
+
+---
+
+## 📊 GitHub Stats
+![Kartikeya's GitHub stats](https://github-readme-stats.vercel.app/api?username=0kartik&theme=tokyonight&hide_border=true&show_icons=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=0kartik&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0kartik&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/janardan-kartikeya-agnihotram-135252291/  
+- Email: janardanagnihotram@gmail.com  
+
+---
+
+## ⚡ Edge
+- Strong execution discipline (daily commits & consistency mindset)  
+- Builder-first approach to learning  
+- Focused on long-term engineering excellence over shortcuts  
+
+---
