@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-Computer Science undergraduate focused on building **scalable, production-grade systems** and mastering **data structures & algorithms** through consistent practice.
+Computer Science undergraduate focused on building **scalable, production-grade systems** and mastering **data structures & algorithms** through consistent practice
 
 I approach learning by **building real-world applications**, not just consuming theory. My work reflects a balance of **problem-solving depth, system thinking, and execution discipline**.
 
