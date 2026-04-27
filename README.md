@@ -98,6 +98,6 @@ Git, GitHub, NPM, Windows Terminal
 ## ⚡ Edge
 - Strong execution discipline (daily commits & consistency mindset)  
 - Builder-first approach to learning  
-- Focused on long-term engineering excellence over shortcuts  
+- Focused on long-term engineering excellence over shortcuts 
 
 ---
