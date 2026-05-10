@@ -1,4 +1,4 @@
-# 👋 Janardan Kartikeya Agnihotram 
+⁸# 👋 Janardan Kartikeya Agnihotram 
 
 ### Software Engineer | Backend Systems | AI/ML Enthusiast
 
@@ -22,7 +22,7 @@ I approach learning by **building real-world applications**, not just consuming 
   Applying machine learning concepts to practical use-cases (beginner → intermediate).
 
 - **Cloud & Deployment**  
-  Working with modern deployment workflows, databases, and scalable infrastructure.
+  Working with modern deployment workflows, databases, and scalable infrastructure
 
 ---
 
