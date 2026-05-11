@@ -1,4 +1,4 @@
-⁸# 👋 Janardan Kartikeya Agnihotram 
+# 👋 Janardan Kartikeya Agnihotram 
 
 ### Software Engineer | Backend Systems | AI/ML Enthusiast
 
