@@ -63,7 +63,7 @@ Git, GitHub, NPM, Windows Terminal
 - Open-source (Backend / AI / Dev Tools)  
 - Hackathons & research-driven builds  
 - High-impact student-led tech projects  
-- Internship opportunities  
+- Internship/Fresher job opportunities  
 
 ---
 
