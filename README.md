@@ -13,10 +13,10 @@ I approach learning by **building real-world applications**, not just consuming 
 
 ## 🔧 Core Focus Areas
 - **Data Structures & Algorithms**  
-  Strong problem-solving foundation with consistent LeetCode practice and pattern mastery.
+  Strong problem-solving foundation with consistent LeetCode practice and pattern mastery. 
 
 - **Backend Engineering & Systems**  
-  Designing APIs, handling data flow, and building reliable backend architectures. 
+  Designing APIs, handling data flow, and building reliable backend architectures.
 
 - **AI/ML & Data-Driven Applications**  
   Applying machine learning concepts to practical use-cases (beginner → intermediate).
