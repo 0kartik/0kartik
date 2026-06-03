@@ -1,6 +1,6 @@
 # 👋 Janardan Kartikeya Agnihotram 
 
-### Software Engineer | Backend Systems | AI/ML Enthusiast
+### Software Engineer | Backend Systems | AI/ML Enthusiast | Full Stack
 
 ---
 
@@ -80,18 +80,10 @@ Git, GitHub, NPM, Windows Terminal
 
 ---
 
-## 📊 GitHub Stats
-![Kartikeya's GitHub stats](https://github-readme-stats.vercel.app/api?username=0kartik&theme=tokyonight&hide_border=true&show_icons=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=0kartik&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0kartik&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/janardan-kartikeya-agnihotram-135252291/  
-- Email: janardanagnihotram@gmail.com  
+- Email: janardanagnihotram@gmail.com
+- Mobile: 9441811005
 
 ---
 
