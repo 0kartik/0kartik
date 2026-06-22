@@ -83,7 +83,6 @@ Git, GitHub, NPM, Windows Terminal
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/janardan-kartikeya-agnihotram-135252291/  
 - Email: janardanagnihotram@gmail.com
-- Mobile: 9441811005
 
 ---
 
