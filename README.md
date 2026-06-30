@@ -1,6 +1,6 @@
 # 👋 Janardan Kartikeya Agnihotram 
 
-### Software Engineer | Backend Systems | AI/ML Enthusiast | Full Stack Developer
+### Software Engineer | Backend Systems | AI/ML Enthusiast | Full Stack Developer 
 
 ---
 
